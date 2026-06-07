@@ -3,14 +3,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4B8BBE,50:306998,100:FFD43B&text=🐍%20Python%20Repository&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 <br>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="140"/>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=4B8BBE&center=true&vCenter=true&random=false&width=800&height=80&lines=Welcome+to+my+Python+Universe+🚀;Building+Projects+Every+Day+⚡;Automating+Everything+🤖;Learning+Never+Stops+📚;Code.+Build.+Repeat.+🔥" />
 
-<br><br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZkbTZ2c3NzbG0zNnB3N2l2Njdhc3djd3JqZ3h4eWhnN2Y5aHppYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="650"/>
-
-<br><br>
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Repository](https://img.shields.io/badge/Repository-Active-success?style=for-the-badge)
