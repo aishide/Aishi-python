@@ -1,142 +1,81 @@
 <div align="center">
 
-# 🐍 Python Playground
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4B8BBE,50:306998,100:FFD43B&text=Python%20Repository&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="120"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="140"/>
 
-### A collection of Python programs, experiments, utilities, and learning projects.
+# 🐍 Python Repository
+
+### A collection of Python projects, scripts, experiments, and learning resources.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4B8BBE&center=true&vCenter=true&width=600&lines=Building+with+Python+%F0%9F%90%8D;Exploring+New+Ideas+%F0%9F%9A%80;Learning+Every+Day+%F0%9F%93%9A;Creating+Useful+Projects+%E2%9C%A8"/>
+
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-Multiple-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🌟 About This Repository
+# 🌟 About
 
-This repository serves as a central hub for Python development, experimentation, and learning.
+This repository serves as a personal hub for everything related to **Python development**.
 
-Whether it's:
-
-- 🧮 Algorithms & Data Structures
-- 🤖 Automation Scripts
-- 📊 Data Analysis
-- 🌐 API Integrations
-- 🎯 Mini Projects
-- 🛠️ Utilities & Tools
-- 🧠 Problem Solving
-- 🚀 Python Experiments
-
-Everything is organized here for easy access, learning, and future development.
+From simple scripts to complete projects, this repository documents the journey of learning, building, experimenting, and solving real-world problems with Python.
 
 ---
 
-## 📂 Repository Structure
+<div align="center">
 
-```text
-Python-Repository/
-│
-├── Projects/
-│   ├── Project_1/
-│   ├── Project_2/
-│   └── ...
-│
-├── Scripts/
-│   ├── Automation/
-│   ├── Utilities/
-│   └── ...
-│
-├── DSA/
-│   ├── Arrays/
-│   ├── LinkedLists/
-│   ├── Trees/
-│   └── ...
-│
-├── Learning/
-│   ├── OOP/
-│   ├── FileHandling/
-│   ├── Modules/
-│   └── ...
-│
-└── README.md
-```
+## ⚡ What's Inside?
 
----
+</div>
 
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/python-playground.git
-```
-
-### Navigate to the Repository
-
-```bash
-cd python-playground
-```
-
-### Run Any Python File
-
-```bash
-python filename.py
-```
-
----
-
-## 🎯 Goals
-
-✔ Improve Python proficiency
-
-✔ Build practical projects
-
-✔ Explore new libraries and frameworks
-
-✔ Practice problem-solving
-
-✔ Create reusable code snippets
-
-✔ Maintain a well-structured Python knowledge base
-
----
-
-## 💡 What You'll Find Here
-
-<table>
+<table align="center">
 <tr>
 <td align="center" width="25%">
 
-### 🐍 Core Python
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="70">
 
-Variables, Loops, Functions, OOP, Modules
+### Projects
 
-</td>
-
-<td align="center" width="25%">
-
-### 📊 Data Handling
-
-NumPy, Pandas, CSV, JSON
+Real-world applications and mini projects
 
 </td>
 
 <td align="center" width="25%">
 
-### 🤖 Automation
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="70">
 
-Scripts & Productivity Tools
+### Python Basics
+
+Core concepts and fundamentals
 
 </td>
 
 <td align="center" width="25%">
 
-### 🧠 DSA
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="70">
 
-Coding Practice & Algorithms
+### Automation
+
+Scripts to simplify tasks
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/2881/2881142.png" width="70">
+
+### DSA
+
+Problem solving and algorithms
 
 </td>
 </tr>
@@ -144,57 +83,140 @@ Coding Practice & Algorithms
 
 ---
 
-## 📈 Learning Journey
+# 📂 Repository Structure
 
 ```text
-Python Basics      ██████████████░░░░░
-OOP Concepts       ████████████░░░░░░░
-Data Structures    ██████████░░░░░░░░░
-Projects           █████████████░░░░░░
-Automation         ███████████░░░░░░░░
-Advanced Python    ███████░░░░░░░░░░░░
+🐍 Python-Repository
+│
+├── 📁 Projects
+│   ├── Project-1
+│   ├── Project-2
+│   └── ...
+│
+├── 📁 Automation
+│   ├── Scripts
+│   └── Tools
+│
+├── 📁 DSA
+│   ├── Arrays
+│   ├── Linked Lists
+│   ├── Trees
+│   └── Graphs
+│
+├── 📁 Learning
+│   ├── OOP
+│   ├── File Handling
+│   ├── Modules
+│   └── Libraries
+│
+└── README.md
 ```
 
 ---
 
-## 🤝 Contributions
-
-Contributions, suggestions, and improvements are always welcome.
-
-If you'd like to contribute:
+# 🚀 Quick Start
 
 ```bash
-Fork → Clone → Improve → Commit → Push → Pull Request
+# Clone the repository
+git clone https://github.com/your-username/python-repository.git
+
+# Move into the project directory
+cd python-repository
+
+# Run any Python file
+python filename.py
 ```
-
----
-
-## 📚 Resources
-
-- Python Documentation
-- Open Source Projects
-- Coding Challenges
-- Personal Experiments
-- Learning Notes
-
----
-
-## ⭐ Support
-
-If you find this repository useful:
-
-🌟 Star the repository
-
-🍴 Fork it
-
-📢 Share it with others
 
 ---
 
 <div align="center">
 
-### 🚀 Keep Learning • Keep Building • Keep Growing
+# 🛠️ Technologies
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3776AB,100:FFD43B&section=footer"/>
+<img src="https://skillicons.dev/icons?i=python,vscode,github,git"/>
+
+</div>
+
+---
+
+# 📈 Learning Progress
+
+```text
+Python Fundamentals   ████████████████████ 100%
+OOP Concepts          █████████████████░░░ 85%
+Automation            ████████████████░░░░ 80%
+Data Structures       ██████████████░░░░░░ 70%
+Algorithms            █████████████░░░░░░░ 65%
+Advanced Python       ██████████░░░░░░░░░░ 50%
+```
+
+---
+
+<div align="center">
+
+# 🎯 Repository Goals
+
+</div>
+
+- 🐍 Master Python Development
+- 🚀 Build Practical Projects
+- 📚 Learn New Libraries
+- 🧠 Strengthen Problem Solving Skills
+- 🔥 Maintain a Consistent Coding Habit
+- 🌍 Create Useful Open-Source Contributions
+
+---
+
+<div align="center">
+
+# 📊 Activity Overview
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🤝 Contributions
+
+Contributions are welcome!
+
+### Fork 🍴 → Code 💻 → Commit 📌 → Push 🚀 → Pull Request 🎉
+
+</div>
+
+---
+
+<div align="center">
+
+# ⭐ Support
+
+If you find this repository useful:
+
+⭐ Star the repository
+
+🍴 Fork it
+
+📢 Share it with others
+
+💡 Build something amazing
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
+
+<br><br>
+
+### 🐍 Code • Learn • Build • Repeat
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4B8BBE,50:306998,100:FFD43B"/>
 
 </div>
